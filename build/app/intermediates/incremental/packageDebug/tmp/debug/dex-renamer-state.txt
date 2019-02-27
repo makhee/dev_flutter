@@ -1,0 +1,4 @@
+#Wed Feb 27 14:33:48 KST 2019
+base.0=/Users/x2soft/Desktop/yrjeong/Flutter/netpx_flutter/netpx_flutter/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
