@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/cupertino.dart';
+
 import 'package:netpx_flutter/detail.dart';
 
 class GoodsList {
@@ -56,7 +58,7 @@ class GoodsList {
         debugPrint('click ' + name);
         Navigator.push(
           mContext,
-          MaterialPageRoute(builder: (mContext) => Detail()),
+          CupertinoPageRoute(builder: (mContext) => Detail()),
         );
       },
       child: new Card(
